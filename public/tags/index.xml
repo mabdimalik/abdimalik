@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Abdimalik</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Abdimalik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>mohamed@abdimalik.com (Mohamed Abdimalik)</managingEditor>
+    <webMaster>mohamed@abdimalik.com (Mohamed Abdimalik)</webMaster>
+    <lastBuildDate>Thu, 07 Mar 2019 06:21:50 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mogadishu</title>
+      <link>/tags/mogadishu/</link>
+      <pubDate>Thu, 07 Mar 2019 06:21:50 +0000</pubDate>
+      <author>mohamed@abdimalik.com (Mohamed Abdimalik)</author>
+      <guid>/tags/mogadishu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Somalia</title>
+      <link>/tags/somalia/</link>
+      <pubDate>Thu, 07 Mar 2019 06:21:50 +0000</pubDate>
+      <author>mohamed@abdimalik.com (Mohamed Abdimalik)</author>
+      <guid>/tags/somalia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suicide bombs</title>
+      <link>/tags/suicide-bombs/</link>
+      <pubDate>Thu, 07 Mar 2019 06:21:50 +0000</pubDate>
+      <author>mohamed@abdimalik.com (Mohamed Abdimalik)</author>
+      <guid>/tags/suicide-bombs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prime Minister</title>
+      <link>/tags/prime-minister/</link>
+      <pubDate>Mon, 18 Feb 2019 20:59:51 +0000</pubDate>
+      <author>mohamed@abdimalik.com (Mohamed Abdimalik)</author>
+      <guid>/tags/prime-minister/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turn Over</title>
+      <link>/tags/turn-over/</link>
+      <pubDate>Mon, 18 Feb 2019 20:59:51 +0000</pubDate>
+      <author>mohamed@abdimalik.com (Mohamed Abdimalik)</author>
+      <guid>/tags/turn-over/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
