@@ -1,4 +1,4 @@
-baseurl = "http://abdimalik.com"
+baseurl = "/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Abdimalik"
