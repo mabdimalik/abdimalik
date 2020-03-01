@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>somali-police-violence on Abdimalik</title>
+    <link>/tags/somali-police-violence/</link>
+    <description>Recent content in somali-police-violence on Abdimalik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 May 2019 05:56:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/somali-police-violence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kalawareeg: Mapping Police Violence Against Bajaaj Drivers in Mogadishu</title>
+      <link>/kalawareeg-mapping-police-violence-against-motorists-in-somalia/</link>
+      <pubDate>Wed, 22 May 2019 05:56:33 +0000</pubDate>
+      
+      <guid>/kalawareeg-mapping-police-violence-against-motorists-in-somalia/</guid>
+      <description>Nearly a month ago, I shared on Twitter, a new side initiative: #KalaWareeg – a citizen curated victim level database on police violence against motorists, passengers and pedestrians in Mogadishu. This was in response to unremitting spike in police misconduct, violence and killings of Bajaaj (auto-rickshaw) drivers at the many security checkpoints in the city, aptly named Kala Wareeg by residents.
+As a result, the first version is now up and running on Google sheets.</description>
+    </item>
+    
+  </channel>
+</rss>

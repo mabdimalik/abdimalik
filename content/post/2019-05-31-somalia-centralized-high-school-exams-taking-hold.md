@@ -7,10 +7,10 @@ url: /somalia-centralized-high-school-exams-taking-hold/
 hits:
   - 488
 tags:
-  - JaantuskaTodobaadka
-  - EducationMinistry
-  - SecondaryExaminations
-  - Data4Somalia
+  - jaantuska-todobaadka
+  - education-ministry
+  - secondary-examinations
+  - data4somalia
 
 ---
 <p style="text-align:left">

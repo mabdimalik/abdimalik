@@ -7,9 +7,10 @@ url: /nearly-4000-killed-wounded-by-suicide-attacks-in-mogadishu-since-2012/
 hits:
   - 272
 tags:
-  - JaantuskaTodobaadka
-  - SuicideAttacks
-  - Data4Somalia
+  - jaantuska-todobaadka
+  - suicide-attacks-somalia
+  - mogadishu-bomb-attacks
+  - data4somalia
 
 ---
  

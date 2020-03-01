@@ -7,10 +7,10 @@ url: /somalia-prime-ministers-turn-over/
 hits:
   - 417
 tags:
-  - JaantuskaTodobaadka
-  - Somali Prime Ministers
-  - PMTurnOvers
-  - Data4Somalia
+  - jaantuska-todobaadka
+  - somali-prime-ministers
+  - pm-turn-overs
+  - data4somalia
 
 
 ---

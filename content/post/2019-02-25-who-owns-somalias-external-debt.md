@@ -7,9 +7,9 @@ url: /who-owns-somalias-external-debt/
 hits:
   - 246
 tags:
-  - JaantuskaTodobaadka
-  - SomaliaDebt
-  - Data4Somalia
+  - jaantuska-todobaadka
+  - somalia-external-debt
+  - data4somalia
 
 ---
  

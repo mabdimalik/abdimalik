@@ -7,10 +7,10 @@ url: /kalawareeg-mapping-police-violence-against-motorists-in-somalia/
 hits:
   - 317
 tags:
-  - JaantuskaTodobaadka
-  - BajaajDrivers
-  - PoliceViolence
-  - Data4Somalia
+  - jaantuska-todobaadka
+  - bajaaj-drivers-killers
+  - somali-police-violence
+  - data4somalia
 
 ---
  
