@@ -10,7 +10,7 @@ tags:
   - jaantuska-todobaadka
   - suicide-attacks-somalia
   - mogadishu-bomb-attacks
-  - data4somalia
+  - open-data-somalia
 
 ---
  

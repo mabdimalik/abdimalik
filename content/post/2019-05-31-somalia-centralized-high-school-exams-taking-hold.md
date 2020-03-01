@@ -10,7 +10,7 @@ tags:
   - jaantuska-todobaadka
   - education-ministry
   - secondary-examinations
-  - data4somalia
+  - open-data-somalia
 
 ---
 <p style="text-align:left">

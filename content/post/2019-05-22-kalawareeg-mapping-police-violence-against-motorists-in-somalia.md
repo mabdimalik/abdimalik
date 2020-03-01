@@ -10,7 +10,7 @@ tags:
   - jaantuska-todobaadka
   - bajaaj-drivers-killers
   - somali-police-violence
-  - data4somalia
+  - open-data-somalia
 
 ---
  

@@ -10,7 +10,7 @@ tags:
   - jaantuska-todobaadka
   - somali-prime-ministers
   - pm-turn-overs
-  - data4somalia
+  - open-data-somalia
 
 
 ---

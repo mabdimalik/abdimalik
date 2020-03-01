@@ -9,7 +9,7 @@ hits:
 tags:
   - jaantuska-todobaadka
   - somalia-external-debt
-  - data4somalia
+  - open-data-somalia
 
 ---
  
