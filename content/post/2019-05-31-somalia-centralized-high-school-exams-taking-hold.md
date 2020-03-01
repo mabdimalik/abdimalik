@@ -14,7 +14,7 @@ categories:
   In June 2015, Somalia relaunched a nationwide unified high school examinations for the first time since the government collapsed in 1991. The exercise, however, attracted a paltry turn out of around 3,500 students out of the estimated 17,500 in Mogadishu alone at the time. The failed start happened after the ministry of education led by Dr. Khadra Bashiir Ali and 12 private education networks controlling more than 500 schools in south and central Somalia, failed to reach a much anticipated agreement to transition the country into unified exams &#8211; leading to a massive boycott called for by the education network leaders.
 </p>
 
-Private education networks were formed by local business leaders to fill the void left by the government. Over time, the networks created a cartel-like chokehold over the entire education system. They resisted any form of regulatory supervision or reform. Each network operated its own set of scattered, copy pasted, incoherent curriculums, low quality & uncoordinated examinations and certifications.
+Private education networks were formed by local business leaders to fill the void left by the government. Over time, the networks created a cartel-like chokehold over the entire education system. They resisted any form of regulatory supervision or reform. Each network operated its own set of scattered, incoherent and low quality curriculums, resulting in the proliferation of substandard examinations and certifications.
 
 **Progress: Centralized Examinations Taking Hold**
 

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abdimalik</title>
-    <link>/</link>
-    <description>Recent content on Abdimalik</description>
+    <title>Posts on Abdimalik</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Abdimalik</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>mohamed@abdimalik.com (Mohamed Abdimalik)</managingEditor>
     <webMaster>mohamed@abdimalik.com (Mohamed Abdimalik)</webMaster>
     <lastBuildDate>Fri, 31 May 2019 10:25:37 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -44,16 +44,6 @@ According to my analysis of 114 suicide bombings in the capital since 2012, suic
     </item>
     
     <item>
-      <title>Data</title>
-      <link>/page/data/</link>
-      <pubDate>Tue, 26 Feb 2019 12:33:24 +0000</pubDate>
-      <author>mohamed@abdimalik.com (Mohamed Abdimalik)</author>
-      <guid>/page/data/</guid>
-      <description>Here are links to all datasets used to produce data stories, charts, maps, and infographics on my site. Please feel free to use them for your own work. If you have any questions or feedback about the data or any of my analysis/stories, please reach out to me anytime. Thank you.
-to be updated soon!</description>
-    </item>
-    
-    <item>
       <title>Who Owns Somalia’s External Debt?</title>
       <link>/who-owns-somalias-external-debt/</link>
       <pubDate>Mon, 25 Feb 2019 20:31:10 +0000</pubDate>
@@ -70,29 +60,6 @@ to be updated soon!</description>
       <guid>/somalia-prime-ministers-turn-over/</guid>
       <description>Since the rebirth of the Somali government in Djibouti in late 2000, Somalia’s progress in building viable state institutions were in large part obstructed by frequent political infighting resulting in political instabilities and a series of failed governments. During these tumultuous period, five successive Somali governments churned out sixteen prime ministers: 12 voted in by parliament, and 4 appointed to serve in interim capacities.
 In February, 2017, when former prime minister Mohamed Abdullah Mohamed (Farmaajo) – who has suffered the shortest stint and a bitter ouster – was elected Somali president, he vowed to end the country’s destabilizing political culture, ones and for all.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>mohamed@abdimalik.com (Mohamed Abdimalik)</author>
-      <guid>/page/about/</guid>
-      <description>Hi there,
-My name is Mohamed Abdimalik. I&amp;rsquo;m a freelance data journalist, consultant and trainer in analytics and data visualization.
-I have many years of experience helping numerous media, nonprofit and public sector institutions in Somalia to manage, model and analyze data to make evidence informed decisions.
-Aside from my core work; I also regularly collect, clean, curate and share open datasets on Somalia.
-I currently live in Mogadishu.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/page/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>mohamed@abdimalik.com (Mohamed Abdimalik)</author>
-      <guid>/page/projects/</guid>
-      <description>February 18, 2019: Jaantuska Todobaadka Every week, I publish a single chart that explores and sheds light on important and current public interest issues in Somalia. The aim is to infuse a little data to help raise the level of public discourse.
-  January 30, 2019: Eyes on Airstrikes: The War on Terror in Somalia. An interactive map and airstrike data explorer tool – to help track and document air raids against terror groups in Somalia.</description>
     </item>
     
   </channel>

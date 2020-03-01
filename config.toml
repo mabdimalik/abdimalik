@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://abdimalik.com/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Abdimalik"
@@ -61,15 +61,15 @@ googleAnalytics = "UA-134748181-1"
 
 [[menu.main]]
     name = "Projects"
-    url = "page/projects/"
+    url = "/projects/"
     weight = 2
 
 [[menu.main]]
     name = "Data"
-    url = "page/data/"
+    url = "/data/"
     weight = 3
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
+    url = "/about/"
     weight = 4
