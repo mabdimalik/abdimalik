@@ -6,12 +6,12 @@ date: 2019-02-18T20:59:51+00:00
 url: /somalia-prime-ministers-turn-over/
 hits:
   - 417
-categories:
-  - Jaantuska Todobaadka
 tags:
-  - Prime Minister
-  - Somalia
-  - Turn Over
+  - JaantuskaTodobaadka
+  - Somali Prime Ministers
+  - PMTurnOvers
+  - Data4Somalia
+
 
 ---
  

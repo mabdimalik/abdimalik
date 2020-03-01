@@ -6,8 +6,11 @@ date: 2019-05-22T05:56:33+00:00
 url: /kalawareeg-mapping-police-violence-against-motorists-in-somalia/
 hits:
   - 317
-categories:
-  - Jaantuska Todobaadka
+tags:
+  - JaantuskaTodobaadka
+  - BajaajDrivers
+  - PoliceViolence
+  - Data4Somalia
 
 ---
  

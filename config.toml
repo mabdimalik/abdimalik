@@ -47,11 +47,10 @@ googleAnalytics = "UA-134748181-1"
 
 [Author]
   name = "Mohamed Abdimalik"
-  website = "abdimalik.com"
-  email = "mohamed@abdimalik.com"
   facebook = "mabdimalik"
   github = "mabdimalik"
   twitter = "mabdimalik"
+  
 
  
 [[menu.main]]
@@ -73,3 +72,4 @@ googleAnalytics = "UA-134748181-1"
     name = "About"
     url = "about/"
     weight = 4
+

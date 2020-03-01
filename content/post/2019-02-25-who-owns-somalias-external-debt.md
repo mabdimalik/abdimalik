@@ -6,8 +6,10 @@ date: 2019-02-25T20:31:10+00:00
 url: /who-owns-somalias-external-debt/
 hits:
   - 246
-categories:
-  - Jaantuska Todobaadka
+tags:
+  - JaantuskaTodobaadka
+  - SomaliaDebt
+  - Data4Somalia
 
 ---
  

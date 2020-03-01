@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/data4somalia/</loc>
     <lastmod>2019-05-31T10:25:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/tags/educationministry/</loc>
     <lastmod>2019-05-31T10:25:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/jaantuska-todobaadka/</loc>
+    <loc>/tags/jaantuskatodobaadka/</loc>
     <lastmod>2019-05-31T10:25:37+00:00</lastmod>
   </url>
   
@@ -23,8 +23,23 @@
   </url>
   
   <url>
+    <loc>/tags/secondaryexaminations/</loc>
+    <lastmod>2019-05-31T10:25:37+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/somalia-centralized-high-school-exams-taking-hold/</loc>
     <lastmod>2019-05-31T10:25:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-31T10:25:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bajaajdrivers/</loc>
+    <lastmod>2019-05-22T05:56:33+00:00</lastmod>
   </url>
   
   <url>
@@ -33,8 +48,8 @@
   </url>
   
   <url>
-    <loc>/tags/mogadishu/</loc>
-    <lastmod>2019-03-07T06:21:50+00:00</lastmod>
+    <loc>/tags/policeviolence/</loc>
+    <lastmod>2019-05-22T05:56:33+00:00</lastmod>
   </url>
   
   <url>
@@ -43,28 +58,23 @@
   </url>
   
   <url>
-    <loc>/tags/somalia/</loc>
+    <loc>/tags/suicideattacks/</loc>
     <lastmod>2019-03-07T06:21:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/suicide-bombs/</loc>
-    <lastmod>2019-03-07T06:21:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-03-07T06:21:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page/data/</loc>
+    <loc>/</loc>
     <lastmod>2019-02-26T12:33:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/page/</loc>
+    <loc>/data/</loc>
     <lastmod>2019-02-26T12:33:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/somaliadebt/</loc>
+    <lastmod>2019-02-25T20:31:10+00:00</lastmod>
   </url>
   
   <url>
@@ -73,7 +83,12 @@
   </url>
   
   <url>
-    <loc>/tags/prime-minister/</loc>
+    <loc>/tags/pmturnovers/</loc>
+    <lastmod>2019-02-18T20:59:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/somali-prime-ministers/</loc>
     <lastmod>2019-02-18T20:59:51+00:00</lastmod>
   </url>
   
@@ -83,16 +98,15 @@
   </url>
   
   <url>
-    <loc>/tags/turn-over/</loc>
-    <lastmod>2019-02-18T20:59:51+00:00</lastmod>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>/page/about/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/page/projects/</loc>
+    <loc>/projects/</loc>
   </url>
   
 </urlset>
